@@ -1,0 +1,22 @@
+{
+  "phones": [
+    {
+      "name": "anas",
+      "type": "anas",
+      "price": "3333",
+      "rating": "5",
+      "warranty_years": "2017",
+      "available": "non",
+      "id": 1
+    },
+    {
+      "name": "hicham",
+      "type": "solo",
+      "price": "2222",
+      "rating": "3",
+      "warranty_years": "2019",
+      "available": "yes",
+      "id": 2
+    }
+  ]
+}
